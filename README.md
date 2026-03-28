@@ -50,7 +50,10 @@ CIRCUIT DIAGRAM
 
 To obtain the output of an Integrator circuit with component values R1Cf = 0.1ms , Rf = 10 R1 and Cf = 0.01 µF and also if 1 V peak square wave at 1000Hz is applied as input.
 We know the frequency at which the gain is 0 dB, fb = 1 / (2π R1 Cf) Therefore fb = 	 Since fb = 10 fa , and also the gain limiting frequency fa = 1 / (2π Rf Cf)
-We get , R1 =	and hence Rf = 	
+We get , R1 =	and hence Rf,
+
+<img width="848" height="1415" alt="570588634-0290e0be-f612-4b34-847c-cea2ea65722b" src="https://github.com/user-attachments/assets/206f77a9-58b3-4c3f-9960-d52880a82e82" />
+
 
 ## PROCEDURE
 
@@ -61,18 +64,11 @@ We get , R1 =	and hence Rf =
 
 
 ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
-		
-
----
+![WhatsApp Image 2026-03-28 at 1 29 19 PM](https://github.com/user-attachments/assets/4583397a-0b49-430c-8b58-865fe3ceb5e5)
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="1146" height="1600" alt="image" src="https://github.com/user-attachments/assets/46f049b7-9bcb-4bf3-9152-ce8eb96082f2" />
 
-
----
 **DATE:**  
              3 B DIFFERENTIATOR
 ---
@@ -139,7 +135,7 @@ Now choose fb = 10fa = 1 / 2πR1C1 Therefore, R1 = 1 / 2π(103)(10-7)
 = 1.59KΩ Since RFCF = R1C1
 We get, CF = (1.59*103*10-7) / 15.9*103
 = 0.01μF
-
+<img width="1452" height="1600" alt="image" src="https://github.com/user-attachments/assets/c11c05a2-bdf4-41dd-a841-95a41d9dfb0a" />
 
 ## PROCEDURE
 
@@ -149,15 +145,10 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 
  ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
-		
+![WhatsApp Image 2026-03-28 at 1 32 23 PM](https://github.com/user-attachments/assets/01f2d1f2-1405-4e16-bcdd-2ddd0bc5c34c)
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
-
----
+<img width="577" height="787" alt="image" src="https://github.com/user-attachments/assets/ff39edfb-123f-48ea-9ae4-c3092c7db540" />
 
 RESULT:
 Thus an Integrator and Differentiator using op-amp are designed and their performance was successfully tested using op-amp IC 741.
